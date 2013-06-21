@@ -20,5 +20,5 @@
         "ensemble/kernel-doctrine-orm": "self.version",
         "ensemble/utils": "self.version",
         "ensemble/admin": "self.version"
-    },
+    }
 }
