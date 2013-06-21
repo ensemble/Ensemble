@@ -1,0 +1,24 @@
+{
+    "name": "ensemble/ensemble",
+    "description": "Package for the ensemble CMS",
+    "license": "BSD-3-Clause",
+    "type": "library",
+    "keywords": [
+        "ensemble",
+        "cms"
+    ],
+    "homepage": "https://github.com/ensemble/Ensemble",
+    "authors": [
+        {
+            "name": "Jurian Sluiman",
+            "email": "jurian@juriansluiman.nl",
+            "homepage": "http://juriansluiman.nl"
+        }
+    ],
+    "require": {
+        "ensemble/kernel": "self.version",
+        "ensemble/kernel-doctrine-orm": "self.version",
+        "ensemble/utils": "self.version",
+        "ensemble/admin": "self.version"
+    },
+}
